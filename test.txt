@@ -1,5 +1,5 @@
-Potion of Healing;25 gp;common;consumable
-+1 weapon;200 gp;uncommon;weapon
-Blue stone;5 sp;common;consumable
-Green stone;1 gp;uncommon;consumable
-Magic shit;1 sp;uncommon;consumable
+Potion of Healing;25 gp;common;consumable; A, B , C
++1 weapon;200 gp;uncommon;weapon; B
+Blue stone;5 sp;common;consumable; #
+Green stone;1 gp;uncommon;consumable; #
+Magic shit;1 sp;uncommon;consumable; #
