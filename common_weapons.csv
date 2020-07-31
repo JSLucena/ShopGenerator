@@ -1,0 +1,43 @@
+,Item,Cost,Rarity,Category,LT
+0,Club,1 sp,Common,Weapon,#
+1,Dagger,2 gp,Common,Weapon,#
+2,Greatclub,2 sp,Common,Weapon,#
+3,Handaxe,5 gp,Common,Weapon,#
+4,Javelin,5 sp,Common,Weapon,#
+5,Light Hammer,2 sp,Common,Weapon,#
+6,Mace,5 gp,Common,Weapon,#
+7,Quarterstaff,2 sp,Common,Weapon,#
+8,Sickle,1 gp,Common,Weapon,#
+9,Spear,1 gp,Common,Weapon,#
+10,"Crossbow, Light",25 gp,Common,Weapon,#
+11,Dart,5 cp,Common,Weapon,#
+12,Shortbow,25 gp,Common,Weapon,#
+13,Sling,1 sp,Common,Weapon,#
+14,Martial Melee Weapons,Cost,Common,Weapon,#
+15,Battleaxe,10 gp,Common,Weapon,#
+16,Flail,10 gp,Common,Weapon,#
+17,Glaive,20 gp,Common,Weapon,#
+18,Greataxe,30 gp,Common,Weapon,#
+19,Greatsword,50 gp,Common,Weapon,#
+20,Halberd,20 gp,Common,Weapon,#
+21,Lance,10 gp,Common,Weapon,#
+22,Longsword,15 gp,Common,Weapon,#
+23,Maul,10 gp,Common,Weapon,#
+24,Morningstar,15 gp,Common,Weapon,#
+25,Pike,5 gp,Common,Weapon,#
+26,Rapier,25 gp,Common,Weapon,#
+27,Scimitar,25 gp,Common,Weapon,#
+28,Shortsword,10 gp,Common,Weapon,#
+29,Trident,5 gp,Common,Weapon,#
+30,War Pick,5 gp,Common,Weapon,#
+31,Warhammer,15 gp,Common,Weapon,#
+32,Whip,2 gp,Common,Weapon,#
+33,Blowgun,10 gp,Common,Weapon,#
+34,"Crossbow, Hand",75 gp,Common,Weapon,#
+35,"Crossbow, Heavy",50 gp,Common,Weapon,#
+36,Longbow,50 gp,Common,Weapon,#
+37,Net,1 gp,Common,Weapon,#
+38,Arrows (20),1 gp,Common,Weapon,#
+39,Blowgun Needles (50),1 gp,Common,Weapon,#
+40,Crossbow Bolts (20),1 gp,Common,Weapon,#
+41,Sling Bullets (20),4 cp,Common,Weapon,#
