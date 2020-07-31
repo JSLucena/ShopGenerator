@@ -1,0 +1,96 @@
+,Item,Cost,Rarity,Category,LT
+0,Abacus,2 gp,Common,Adventuring Gear,#
+1,Acid (vial),25 gp,Common,Adventuring Gear,#
+2,Alchemist's Fire (flask),50 gp,Common,Adventuring Gear,#
+3,Antitoxin (vial),50 gp,Common,Adventuring Gear,#
+4,"Arcane Focus, Crystal",10 gp,Common,Adventuring Gear,#
+5,"Arcane Focus, Orb",20 gp,Common,Adventuring Gear,#
+6,"Arcane Focus, Rod",10 gp,Common,Adventuring Gear,#
+7,"Arcane Focus, Staff",5 gp,Common,Adventuring Gear,#
+8,"Arcane Focus, Wand",10 gp,Common,Adventuring Gear,#
+9,Backpack,2 gp,Common,Adventuring Gear,#
+10,"Ball Bearings (bag of 1,000)",1 gp,Common,Adventuring Gear,#
+11,Barrel,2 gp,Common,Adventuring Gear,#
+12,Basket,4 sp,Common,Adventuring Gear,#
+13,Bedroll,1 gp,Common,Adventuring Gear,#
+14,Bell,1 gp,Common,Adventuring Gear,#
+15,Blanket,5 sp,Common,Adventuring Gear,#
+16,Block and Tackle,1 gp,Common,Adventuring Gear,#
+17,Book,25 gp,Common,Adventuring Gear,#
+18,"Bottle, Glass",2 gp,Common,Adventuring Gear,#
+19,Bucket,5 cp,Common,Adventuring Gear,#
+20,Caltrops (bag of 20),1 gp,Common,Adventuring Gear,#
+21,Candle,1 cp,Common,Adventuring Gear,#
+22,"Case, Crossbow Bolt",1 gp,Common,Adventuring Gear,#
+23,"Case, Map or Scroll",1 gp,Common,Adventuring Gear,#
+24,Chain (10 feet),5 gp,Common,Adventuring Gear,#
+25,Chalk (1 piece),1 cp,Common,Adventuring Gear,#
+26,Chest,5 gp,Common,Adventuring Gear,#
+27,Climber's Kit,25 gp,Common,Adventuring Gear,#
+28,"Clothes, Common",5 sp,Common,Adventuring Gear,#
+29,"Clothes, Costume",5 gp,Common,Adventuring Gear,#
+30,"Clothes, Fine",15 gp,Common,Adventuring Gear,#
+31,"Clothes, Traveler's",2 gp,Common,Adventuring Gear,#
+32,Component Pouch,25 gp,Common,Adventuring Gear,#
+33,Crowbar,2 gp,Common,Adventuring Gear,#
+34,"Druidic Focus, Sprig of Mistletoe",1 gp,Common,Adventuring Gear,#
+35,"Druidic Focus, Totem",1 gp,Common,Adventuring Gear,#
+36,"Druidic Focus, Wooden Staff",5 gp,Common,Adventuring Gear,#
+37,"Druidic Focus, Yew Wand",10 gp,Common,Adventuring Gear,#
+38,Fishing Tackle,1 gp,Common,Adventuring Gear,#
+39,Flask or Tankard,2 cp,Common,Adventuring Gear,#
+40,Grappling Hook,2 gp,Common,Adventuring Gear,#
+41,Hammer,1 gp,Common,Adventuring Gear,#
+42,"Hammer, Sledge",2 gp,Common,Adventuring Gear,#
+43,Healer's Kit,5 gp,Common,Adventuring Gear,#
+44,"Holy Symbol, Amulet",5 gp,Common,Adventuring Gear,#
+45,"Holy Symbol, Emblem",5 gp,Common,Adventuring Gear,#
+46,"Holy Symbol, Reliquary",5 gp,Common,Adventuring Gear,#
+47,Holy Water (flask),25 gp,Common,Adventuring Gear,#
+48,Hourglass,25 gp,Common,Adventuring Gear,#
+49,Hunting Trap,5 gp,Common,Adventuring Gear,#
+50,Ink (1 ounce bottle),10 gp,Common,Adventuring Gear,#
+51,Ink Pen,2 cp,Common,Adventuring Gear,#
+52,Jug or Pitcher,2 cp,Common,Adventuring Gear,#
+53,Ladder (10-foot),1 sp,Common,Adventuring Gear,#
+54,Lamp,5 sp,Common,Adventuring Gear,#
+55,"Lantern, Bullseye",10 gp,Common,Adventuring Gear,#
+56,"Lantern, Hooded",5 gp,Common,Adventuring Gear,#
+57,Lock,10 gp,Common,Adventuring Gear,#
+58,Magnifying Glass,100 gp,Common,Adventuring Gear,#
+59,Manacles,2 gp,Common,Adventuring Gear,#
+60,Mess Kit,2 sp,Common,Adventuring Gear,#
+61,"Mirror, Steel",5 gp,Common,Adventuring Gear,#
+62,Oil (flask),1 sp,Common,Adventuring Gear,#
+63,Paper (one sheet),2 sp,Common,Adventuring Gear,#
+64,Parchment (one sheet),1 sp,Common,Adventuring Gear,#
+65,Perfume (vial),5 gp,Common,Adventuring Gear,#
+66,"Pick, Miner's",2 gp,Common,Adventuring Gear,#
+67,Piton,5 cp,Common,Adventuring Gear,#
+68,"Poison, Basic (vial)",100 gp,Common,Adventuring Gear,#
+69,Pole (10-foot),5 cp,Common,Adventuring Gear,#
+70,"Pot, Iron",2 gp,Common,Adventuring Gear,#
+71,Potion of Healing,50 gp,Common,Adventuring Gear,#
+72,Pouch,5 sp,Common,Adventuring Gear,#
+73,Quiver,1 gp,Common,Adventuring Gear,#
+74,"Ram, Portable",4 gp,Common,Adventuring Gear,#
+75,Rations (1 day),5 sp,Common,Adventuring Gear,#
+76,Robes,1 gp,Common,Adventuring Gear,#
+77,"Rope, Hempen (50 feet)",1 gp,Common,Adventuring Gear,#
+78,"Rope, Silk (50 feet)",10 gp,Common,Adventuring Gear,#
+79,Sack,1 cp,Common,Adventuring Gear,#
+80,"Scale, Merchant's",5 gp,Common,Adventuring Gear,#
+81,Sealing Wax,4 sp,Common,Adventuring Gear,#
+82,Shovel,2 gp,Common,Adventuring Gear,#
+83,Signal Whistle,5 cp,Common,Adventuring Gear,#
+84,Signet Ring,5 gp,Common,Adventuring Gear,#
+85,Soap,2 cp,Common,Adventuring Gear,#
+86,Spellbook,50 gp,Common,Adventuring Gear,#
+87,"Spikes, Iron (10)",1 gp,Common,Adventuring Gear,#
+88,Spyglass,"1,000 gp",Common,Adventuring Gear,#
+89,"Tent, two-person",2 gp,Common,Adventuring Gear,#
+90,Tinderbox,5 sp,Common,Adventuring Gear,#
+91,Torch,1 cp,Common,Adventuring Gear,#
+92,Vial,1 gp,Common,Adventuring Gear,#
+93,Waterskin,2 sp,Common,Adventuring Gear,#
+94,Whetstone,1 cp,Common,Adventuring Gear,#
